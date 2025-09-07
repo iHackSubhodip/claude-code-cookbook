@@ -51,4 +51,4 @@ wsl --install
 
 ---
 
-**Next:** → [Configuration](../02-claude-configuration/1-README.md)
+**Next:** → [Configuration Prerequisites](../02-claude-configuration/0-prerequisites.md)

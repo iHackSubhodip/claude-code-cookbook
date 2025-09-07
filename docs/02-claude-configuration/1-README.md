@@ -41,4 +41,4 @@ echo "## Project Overview
 
 ---
 
-**Next:** → [Bootstrap New Project](../03-bootstrap-project/1-README.md)
+**Next:** → [Bootstrap Prerequisites](../03-bootstrap-project/0-prerequisites.md)
