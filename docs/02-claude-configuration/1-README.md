@@ -10,13 +10,19 @@ claude
 ```
 
 ## Authentication Options
-**Option 1: Claude Pro/Max** (Recommended)
-- Choose option 1
-- Browser opens for login
 
-**Option 2: Anthropic Console**
-- Choose option 2  
-- Enter API key when prompted
+**When to choose what:**
+
+**Option 1: Claude Pro/Max** (Recommended for beginners)
+- Choose this if you pay for Claude.ai subscription ($20/month)
+- Browser opens automatically
+- Login with your claude.ai email and password
+- No technical setup needed
+
+**Option 2: Anthropic Console** (For advanced users)
+- Choose this if you want pay-per-use pricing
+- Need to create API key at console.anthropic.com
+- More complex but can be cheaper for light usage
 
 ## Trust Project Files
 ```bash

@@ -4,9 +4,13 @@
 
 ## Create Project
 ```bash
+# Create a new folder for your project
 mkdir my-project
 cd my-project
+# Now you're inside the folder
+
 claude
+# This starts Claude Code and gets ready to help you build
 ```
 
 ## Give Detailed Prompt

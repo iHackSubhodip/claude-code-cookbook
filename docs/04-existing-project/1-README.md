@@ -4,8 +4,12 @@
 
 ## 1. Explore
 ```bash
+# Go to your existing project folder
 cd your-existing-project
+# OR: cd ~/Documents/my-python-game
+
 claude "Read my code and tell me what this app does"
+# Claude will analyze all your files and explain the project
 ```
 
 ## 2. Plan  
