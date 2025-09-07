@@ -26,13 +26,24 @@ claude
 
 ## Create Project Context (Optional)
 ```bash
-# Create CLAUDE.md for better context
+# Auto-generate with /init (recommended)
+claude "/init"
+
+# Or create manually
 echo "## Project Overview
 [Brief description]
 
 ## Tech Stack  
 - Language: [your language]
-- Framework: [your framework]" > CLAUDE.md
+- Framework: [your framework]
+
+## Build Commands
+- npm run build
+- npm test
+
+## Code Style
+- Use TypeScript
+- ESLint + Prettier" > CLAUDE.md
 ```
 
 ## Configuration Flow

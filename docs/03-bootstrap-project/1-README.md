@@ -53,4 +53,4 @@ ls -la
 
 ---
 
-**Next:** → [Existing Project Integration](../04-existing-project/1-README.md)
+**Next:** → [Existing Project Prerequisites](../04-existing-project/0-prerequisites.md)
