@@ -3,7 +3,7 @@
 > **Intent**: Ensure Claude Code is installed before configuring
 
 ## Requirements
-- **✅ Step 1 Complete**: [Claude Code Installation](../01-claude-installation/README.md)
+- **✅ Step 1 Complete**: [Claude Code Installation](../01-claude-installation/1-README.md)
 - **Active project directory**
 - **Internet connection** (for authentication)
 
@@ -26,4 +26,4 @@ ping api.anthropic.com
 
 ---
 
-**Ready?** → [Configure Claude Code](README.md)
+**Ready?** → [Configure Claude Code](1-README.md)

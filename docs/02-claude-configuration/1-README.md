@@ -35,6 +35,10 @@ echo "## Project Overview
 - Framework: [your framework]" > CLAUDE.md
 ```
 
+## Configuration Flow
+
+![Claude Code Configuration Flow](2-claude_setup.png)
+
 ---
 
-**Next:** → [Bootstrap New Project](../03-bootstrap-project/README.md)
+**Next:** → [Bootstrap New Project](../03-bootstrap-project/1-README.md)

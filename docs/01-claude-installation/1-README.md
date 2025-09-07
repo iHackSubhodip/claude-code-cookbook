@@ -47,8 +47,8 @@ wsl --install
 
 ## Installation Flow
 
-![Claude Code Installation Flow](claude_installation.png)
+![Claude Code Installation Flow](2-claude_installation.png)
 
 ---
 
-**Next:** → [Configuration](../02-claude-configuration/README.md)
+**Next:** → [Configuration](../02-claude-configuration/1-README.md)

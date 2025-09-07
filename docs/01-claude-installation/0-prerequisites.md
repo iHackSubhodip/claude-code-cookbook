@@ -29,4 +29,4 @@ sudo apt-get install -y nodejs
 
 ---
 
-**Ready?** → [Install Claude Code](README.md)
+**Ready?** → [Install Claude Code](1-README.md)
